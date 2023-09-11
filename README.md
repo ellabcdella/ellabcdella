@@ -3,6 +3,8 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=ELLA✨&animation=twinkling&fontColor=333)
 
+## 🌱 I’m currently adding contents..
+
 </div>
 
 <!--
