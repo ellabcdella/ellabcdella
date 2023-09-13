@@ -43,8 +43,8 @@ I'm excited to challenge with you guys in a new field.
 
 ![DBeaver](https://img.shields.io/badge/DBeaver-2E51A2.svg?&style=for-the-badge&logo=DBeaver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=white)
 
 #### 💻 etc
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
