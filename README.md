@@ -59,7 +59,7 @@ I'm excited to challenge with you guys in a new field.
 ![adobeaftereffects](https://img.shields.io/badge/adobeaftereffects-9999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 </div>
 
