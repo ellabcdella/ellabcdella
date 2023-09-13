@@ -14,6 +14,7 @@
 Hi, I recently graduated from the bootcamp in Korea.<br/>
 Before that, I worked overseas sales in the textile industry.<br/>
 Now I am transitioning to become a full-stack developer.<br/>
+I have an open-mind to exploring new technologies and ideas.<br/>
 I'm excited to challenge with you guys in a new field.
 
 <br/>
