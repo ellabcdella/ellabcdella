@@ -16,8 +16,10 @@ Before that, I worked overseas sales in the textile industry.<br/>
 Now I am transitioning to become a full-stack developer.<br/>
 I'm excited to challenge with you guys in a new field.
 
+<br/>
+
 ### 👩‍💻 Tech Stacks
-#### Lang
+#### 💬 Lang
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -28,12 +30,12 @@ I'm excited to challenge with you guys in a new field.
 ![Ajax](https://img.shields.io/badge/Ajax-333366.svg?&style=for-the-badge&logo=Ajax&logoColor=white)
 ![json](https://img.shields.io/badge/json-000000.svg?&style=for-the-badge&logo=json&logoColor=white)
 
-#### Framework
+#### ⚙️ Framework
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Mybatis](https://img.shields.io/badge/Mybatis-2E51A2.svg?&style=for-the-badge&logo=Mybatis&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Dev Tools & DB/Server
+#### 🔨 Dev Tools & DB/Server
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -44,7 +46,7 @@ I'm excited to challenge with you guys in a new field.
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### etc
+#### 💻 etc
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
