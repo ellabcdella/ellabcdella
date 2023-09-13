@@ -3,14 +3,14 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=ELLA&animation=twinkling&fontColor=333)
 
-## 🌱 Welcome to ELLA's Github
+# 🌱 Welcome to ELLA's Github
 
 <br/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ellabcdella&show_icons=true"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellabcdella&layout=compact"><br><br>
 
-### 🙋‍♀ Introdunction
+## 🙋‍♀ Introdunction
 Hi, I recently graduated from the bootcamp in Korea.<br/>
 Before that, I worked overseas sales in the textile industry.<br/>
 Now I am transitioning to become a full-stack developer.<br/>
@@ -18,7 +18,7 @@ I'm excited to challenge with you guys in a new field.
 
 <br/>
 
-### 👩‍💻 Tech Stacks
+## 👩‍💻 Tech Stacks
 #### 💬 Lang
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
