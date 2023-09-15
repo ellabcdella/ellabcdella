@@ -20,7 +20,7 @@ I'm excited to challenge with you guys in a new field.
 <br/>
 
 ## 👩‍💻 Tech Stacks
-#### 💬 Language
+#### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
