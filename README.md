@@ -11,11 +11,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellabcdella&layout=compact"><br><br>
 
 ## 🙋‍♀ Introdunction
-Hi, I graduated from a full-stack developer course at a bootcamp in Korea.<br/>
-Before that, I worked overseas sales in the textile industry.<br/>
-Now I am landing to become a back-end developer.<br/>
-I have an open-mind to exploring new technologies and ideas.<br/>
-I'm excited to challenge with you guys in a new field.
+Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
+Before that, I worked in overseas sales within the textile industry.<br/>
+*Currently, I am a back-end developer in the trade industry.*<br/>
+I am open-minded and eager to explore new technologies and ideas.<br/>
+I look forward to embarking on new adventures with you guys.
 
 <br/>
 
