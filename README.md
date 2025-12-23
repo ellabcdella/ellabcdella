@@ -14,7 +14,7 @@
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
 Before that, I worked in overseas sales within the textile industry.<br/>
 ***Currently, I am a back-end developer in the trade industry.***<br/>
-Going further, I’m starting to look into LLM API development.
+Recently, I’m starting to look into LLM API development.
 
 <br/>
 
