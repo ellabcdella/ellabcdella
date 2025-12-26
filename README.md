@@ -8,7 +8,7 @@
 <br/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ellabcdella&show_icons=true"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellabcdella&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellabcdella&layout=compact&theme=vue-dark" /><br><br>
 
 ## 🙋‍♀ Introdunction
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
