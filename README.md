@@ -12,7 +12,7 @@
 
 ## 🙋‍♀ Introdunction
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
-Before that, I worked in overseas sales within the textile industry.<br/>
+Before that, I worked in overseas sales in the textile industry.<br/>
 ***Currently, I am a back-end developer in the trade industry.***<br/>
 Recently, I am starting to look into LLM API development.
 
