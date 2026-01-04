@@ -6,8 +6,8 @@
 # 🌱 Welcome to ELLA's GitHub
 
 <br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ellabcdella&layout=compact" />
+<br/>
 
 ## 🙋‍♀ Introdunction
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
