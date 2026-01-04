@@ -7,7 +7,12 @@
 
 <br/>
 
-![Metrics](https://metrics.lecoq.io/ellabcdella?template=classic&languages=1&languages.limit=8)
+[![Metrics](https://metrics.lecoq.io/ellabcdella?template=classic&languages=1&languages.limit=8)](https://metrics.lecoq.io/ellabcdella
+?template=classic
+&languages=1
+&languages.limit=8
+&languages.details=bytes-size,percentage
+)
 
 ## 🙋‍♀ Introdunction
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
