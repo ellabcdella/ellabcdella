@@ -5,9 +5,9 @@
 
 # 🌱 Welcome to ELLA's GitHub
 
-<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella)
-<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ellabcdella)
+
 
 ## 🙋‍♀ Introdunction
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
