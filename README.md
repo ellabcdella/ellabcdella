@@ -7,12 +7,8 @@
 
 <br/>
 
-[![Metrics](https://metrics.lecoq.io/ellabcdella?template=classic&languages=1&languages.limit=8)](https://metrics.lecoq.io/ellabcdella
-?template=classic
-&languages=1
-&languages.limit=8
-&languages.details=bytes-size,percentage
-)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ellabcdella)
 
 ## 🙋‍♀ Introdunction
 Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
