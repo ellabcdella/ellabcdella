@@ -6,7 +6,7 @@
 # 🌱 Welcome to ELLA's GitHub
 
 <br/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ellabcdella&layout=compact" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella)
 <br/>
 
 ## 🙋‍♀ Introdunction
