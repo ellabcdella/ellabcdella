@@ -7,6 +7,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella)
 <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ellabcdella&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ellabcdella&hide_border=true" width="49%" alt="GitHub Streak" />
 
 ## 🙋‍♀️ About Me
 
@@ -72,15 +74,6 @@ LLM APIs, AI-powered applications, and AI coding agents.
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ellabcdella&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ellabcdella&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella" width="49%" alt="Repos per Language" />
 
 <br/>
 
