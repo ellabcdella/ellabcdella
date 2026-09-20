@@ -31,8 +31,9 @@ LLM APIs, AI-powered applications, and AI coding agents.
 
 ## 👩‍💻 Tech Stacks
 #### 🤖 AI Coding Agents
-![Codex](https://img.shields.io/badge/Codex-000000.svg?&style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000.svg?&style=for-the-badge&logo=openai&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 #### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
