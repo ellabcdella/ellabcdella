@@ -75,6 +75,15 @@ LLM APIs, AI-powered applications, and AI coding agents.
 
 <br/>
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ellabcdella&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ellabcdella&hide_border=true" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella" width="49%" alt="Repos per Language" />
+
+<br/>
+
 ## 🤝 Contact
 If you have any questions, please contact the below email.<br/><br/>
 <a href="mailto:ellabcdella@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)</a>
