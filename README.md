@@ -16,7 +16,7 @@ I graduated from a full-stack developer bootcamp in Korea
 <br/>
 after previously working in overseas sales in the textile industry.
 <br/>
-I'm currently expanding my experience in back-end developmentwhile exploring
+I'm currently expanding my experience in back-end development while exploring
 <br/>
 LLM APIs, AI-powered applications, and AI coding agents.
 <br/><br/>
