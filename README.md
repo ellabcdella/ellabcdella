@@ -27,7 +27,7 @@ LLM APIs, AI-powered applications, and AI coding agents.
 <br/>
 🤖 Exploring Codex, Claude Code, and AI-assisted development***
 
-<br/><br/>
+<br/>
 
 ## 👩‍💻 Tech Stacks
 #### 🤖 AI Coding Agents
