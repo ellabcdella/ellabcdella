@@ -11,17 +11,24 @@
 ## 🙋‍♀️ About Me
 
 Hello! I'm a back-end developer working in the trade industry.
+<br/>
 I graduated from a full-stack developer bootcamp in Korea
+<br/>
 after previously working in overseas sales in the textile industry.
+<br/><br/>
 
 I'm currently expanding my experience in back-end developmentwhile exploring
+<br/>
 LLM APIs, AI-powered applications, and AI coding agents.
+<br/><br/>
 
 🌱 Currently learning LLM API Development & AI Integration
+<br/>
 💻 Mainly working with Java, Spring, SQL, and enterprise systems
+<br/>
 🤖 Exploring Codex, Claude Code, and AI-assisted development
 
-<br/>
+<br/><br/>
 
 ## 👩‍💻 Tech Stacks
 #### 🤖 AI Coding Agents
