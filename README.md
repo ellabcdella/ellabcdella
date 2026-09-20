@@ -8,15 +8,24 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ellabcdella)
 <br/>
 
-## 🙋‍♀ Introdunction
-Hello, I graduated from a full-stack developer bootcamp in Korea.<br/>
-Before that, I worked in overseas sales in the textile industry.<br/>
-***Currently, I am a back-end developer in the trade industry.***<br/>
-Recently, I am starting to look into LLM API development.
+## 🙋‍♀️ About Me
+
+Hello! I'm a back-end developer working in the trade industry.
+I graduated from a full-stack developer bootcamp in Korea after previously working in overseas sales in the textile industry.
+I'm currently expanding my experience in back-end development while exploring
+LLM APIs, AI-powered applications, and AI coding agents.
+
+🌱 Currently learning LLM API Development & AI Integration
+💻 Mainly working with Java, Spring, SQL, and enterprise systems
+🤖 Exploring Codex, Claude Code, and AI-assisted development
 
 <br/>
 
 ## 👩‍💻 Tech Stacks
+#### 🤖 AI Coding Agents
+![Codex](https://img.shields.io/badge/Codex-000000.svg?&style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
+
 #### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
